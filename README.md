@@ -25,6 +25,7 @@ python期末大作业，基于pygame的坦克大战小游戏
 ![3](https://user-images.githubusercontent.com/82313079/146535725-6d5a8a45-8a87-4210-9537-47423d799c67.png)
 ![4](https://user-images.githubusercontent.com/82313079/146535739-a1437a87-d2e6-4d80-897f-cc2fd039f1c0.png)
 ![1](https://user-images.githubusercontent.com/82313079/146535756-f836db6d-dc46-4aec-8ffe-d66b020a27bd.png)
+![屏幕截图 2021-12-10 204356](https://user-images.githubusercontent.com/82313079/146550878-68b2629c-26b1-4ce2-93ab-4e89405fa0be.png)
 ![5](https://user-images.githubusercontent.com/82313079/146535776-81612590-933f-49e1-a98c-89b6304b004f.png)
 ![6](https://user-images.githubusercontent.com/82313079/146535779-51e46ec4-57f1-470c-90d7-9c9031c4927c.png)
 ![7](https://user-images.githubusercontent.com/82313079/146535784-d37354da-a514-4ee5-b05e-ae176ef7598e.png)

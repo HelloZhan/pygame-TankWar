@@ -1,5 +1,8 @@
 # pygame-TankWar
 python期末大作业，基于pygame的坦克大战小游戏
+
+项目详细介绍：https://blog.csdn.net/qq_46470984/article/details/122003755
+
 # 完成功能：
 菜单选择：用户可以根据菜单进行选择，提高了程序的交互性。
 
